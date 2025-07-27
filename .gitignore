@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# Environment files
+*.env
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test reports
+*.xml
+*.html
+*.json
+
+# Selenium screenshots or temp
+screenshots/
+temp/
